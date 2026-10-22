@@ -1,0 +1,4 @@
+Casa Glam V3 FIX
+- Login admin no debe fallar si dashboard/reminders responden distinto.
+- Se mantuvo el login contra /api/admin/login y la carga base de citas/clientes/config.
+- Dashboard y recordatorios ahora se cargan de forma opcional.

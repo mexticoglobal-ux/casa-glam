@@ -1,0 +1,6 @@
+name = "casa-glam-api"
+main = "worker.js"
+compatibility_date = "2026-10-07"
+
+[vars]
+# Add non-secret variables here if needed.
